@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 
 function Home() {
   const [uppercase, setUppercase] = useState(false);
@@ -41,7 +42,7 @@ function Home() {
   };
 
   return (
-    <div className="min-h-[80vh]  flex items-center justify-center p-4">
+    <div className="min-h-screen  flex items-center justify-center p-4">
       <div className="w-full max-w-md bg-white rounded-xl shadow-lg p-6">
         <h1 className="text-2xl font-bold text-center text-gray-800 mb-6">
           Password Generator
