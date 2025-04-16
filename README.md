@@ -1,5 +1,5 @@
 🔒 Password Generator
-A secure, customizable password generator built with HTML, CSS, and JavaScript.
+A secure, customizable password generator built with React and Tailwind Css 
 
 ✨ Features
 
@@ -14,5 +14,4 @@ A secure, customizable password generator built with HTML, CSS, and JavaScript.
 🎨 Clean UI with animations/visual feedback
 
 🛠 Tech Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+)
-Tools: Flexbox/Grid, CSS Variables, DOM Manipulation
+Frontend: React.js & Tailwind Css
